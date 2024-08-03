@@ -17,7 +17,7 @@ import java.time.LocalDate;
 
 @Entity
 @Table(name = "Victory")
-//Клас Navigator_Model відповідає за представлення штурмана
+//Клас Navigator_Model відповідає за представлення штурмана  1
 public class Pilot_Model {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
